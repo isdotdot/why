@@ -1,7 +1,7 @@
-baseURL = "https://isdotdot.github.io/blog/"
+baseURL = "https://what.isdotdot.com/"
+title = "What Things Mean"
 languageCode = "en-us"
-title = "Why Things Happen"
 paginate = 10
 
 [params]
-  siteDescription = "Friendly, simple explanations for everyday 'why does...?' questions."
+  siteDescription = "Clear answers to everyday 'what is...?' questions."
